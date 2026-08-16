@@ -1,2 +1,2 @@
-# Loop practice
-A collection of basic java programs practicing the 'while' loop, basic iterations,and number manipulation
+# Learning Java
+A collection of basic java practice programs while learning core concepts - organized by topic in folders.
